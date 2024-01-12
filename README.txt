@@ -1,5 +1,4 @@
 Name: Shiyam Vasanthan
-Student Number: 101231040
 
 Program Files:
 Controller.cc
